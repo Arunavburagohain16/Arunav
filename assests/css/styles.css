@@ -1,0 +1,37 @@
+/* file: style.css
+
+location: assests/css/styles.css
+
+*/
+body{
+	width: 60%;
+	margin: auto;
+}
+
+/*header styles */
+.main-box{}
+.header{
+	background: #1289A7;
+}
+
+/* main content */
+.main-content-area{
+	display: flex;
+	height: 75vh;
+}
+.blogroll{
+	width: 70%;
+}
+.sidebar{
+	background: #EA2027;
+}
+.sidebar-item{
+	background: #6F1E51;
+	padding: 20px;
+}
+/*footer styles */
+.footer-content-area{
+	padding: 50px;
+	background: #34495E;
+
+}
